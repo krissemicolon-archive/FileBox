@@ -1,10 +1,10 @@
 <p align="center">     <img src="src/assets/logo.png" width="128"/>    </p>
 
 <h1 align="center">FileBox</br>
-    <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/krissemicolon/corium?label=lines&style=flat-square&labelColor=333132&color=FFAF3A">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/krissemicolon/FileBox?label=size&style=flat-square&labelColor=333132&color=FFAF3A">
-    <img alt="GitHub" src="https://img.shields.io/github/license/krissemicolon/FileBox?style=flat-square&labelColor=333132&color=FFAF3A">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/krissemicolon/FileBox?style=flat-square&labelColor=333132&color=FFAF3A">
+    <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/krissemicolon/corium?label=lines&style=flat-square&labelColor=333132&color=333132">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/krissemicolon/FileBox?label=size&style=flat-square&labelColor=333132&color=333132">
+    <img alt="GitHub" src="https://img.shields.io/github/license/krissemicolon/FileBox?style=flat-square&labelColor=333132&color=333132">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/krissemicolon/FileBox?style=flat-square&labelColor=333132&color=333132">
 </h1> </br>
 
 ## Development server
