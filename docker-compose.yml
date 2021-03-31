@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  filebox:
+    build: .
+    container_name: filebox
+    env_file:
+      - .env.production
+    ports:
+      # - "8080:80"
+      - "4200:4200"
+    volumes:
+      - ".:/usr/src/app"
+    restart: unless-stopped
